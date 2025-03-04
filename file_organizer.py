@@ -1,5 +1,4 @@
 import os
-import shutil
 
 def organize_files(folder_path):
     if not os.path.exists(folder_path):
